@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Natasya Nadhira"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/tasyabio.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just a normal girl with a normal life"
   location         : "at home"
   email            : "natasyanadhira51@gmail.com"
