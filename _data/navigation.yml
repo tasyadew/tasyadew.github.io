@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "e-Notes"
+    url: /enotes/
   - title: "Arduino"
     url: /arduino/
   - title: "About"
     url: /about/
-  - title: "e-Notes"
-    url: /enotes/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
